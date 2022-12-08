@@ -1,0 +1,21 @@
+.section {
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  width: 1980px;
+  height: 2230px;
+}
+
+.container {
+  position: sticky;
+  top: 0px;
+}
+
+.title {
+  margin: 0 auto;
+  width: 1980px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+}
